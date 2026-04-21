@@ -335,8 +335,8 @@ class ST7789:
         if data is not None:
             self.dc.on()
             self.spi.write(data)
-            if self.cs:
-                self.cs.on()
+        if self.cs:
+            self.cs.on()
 
     def hard_reset(self):
         """

@@ -17,3 +17,9 @@
   - Added `examples/upload_all.sh` script to upload all examples to the board.
   - Added `run_all.sh` script to run all examples on the board.
   - Updated and improved documentation.
+
+2026-4-21
+----------
+  - Add support board NM-CYD-C5
+  - Support XPT2046 Touch driver `lib/xpt2046.py`, which share the SPI with ST7789
+  - add `examples/touch_calibrate.py`

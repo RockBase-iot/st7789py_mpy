@@ -17,6 +17,8 @@ This driver has support for:
 This is a work in progress. Documentation can be found in the docs directory
 and at https://russhughes.github.io/st7789py_mpy/
 
+The NM-CYD-C5 with Touch Screen XPT2046, copy the `xpt2046.py` from
+https://github.com/rdagger/micropython-ili9341
 
 Examples
 --------
