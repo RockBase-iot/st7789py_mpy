@@ -34,6 +34,9 @@ See the examples directory for example programs that run on:
   - M5STACK CORE 320x240 (ILI9342)
   - M5STACK CoreS3 320x240 (ILI9342)
 
+- ESP32-C5
+  - NM-CYD-C5 320*240 (ST7789)
+
 - RP2040
   - LilyGo T-DISPLAY RP2040 135x240
   - RP2040-Touch-LCD-1.28 240x240 (GC9A01)
